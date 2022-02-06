@@ -1,0 +1,13 @@
+Account: Account_Number, Owner, Balance
+
+Deposit
+
+Withdrawal
+
+
+--->Every class must have a new file
+
+-> dotnet watch run
+
+
+the constructor has the ability to set a value to a property with no (set;) function
