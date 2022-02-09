@@ -1,8 +1,10 @@
-Account: Account_Number, Owner, Balance
+Account: Account_Number, Owner, Balance, Transactions
 
 Deposit
 
 Withdrawal
+
+Transactions: Reference, Amount , Date
 
 
 --->Every class must have a new file
@@ -11,3 +13,8 @@ Withdrawal
 
 
 the constructor has the ability to set a value to a property with no (set;) function
+
+
+
+
+---Not done and needs tobe restrated from day5
